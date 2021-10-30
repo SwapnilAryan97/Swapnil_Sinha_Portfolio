@@ -23,7 +23,7 @@
 * The mean of all the models is taken and the final output is provided.
 
 # [Project 4: Email Spam Detection](https://github.com/SwapnilAryan97/projects/blob/master/EmailSpamDetection.ipynb)
-* A MAchine LEarning Model that uses Natrual Language Processing to detect spam emails with 99.04% accuracy.
+* A Machine Learning Model that uses Natrual Language Processing to detect spam emails with 99.04% accuracy.
 *  A csv file containing manual entry of 5727 emails stating whether they're email spams or not.
 * The data is then restructured and passed through an algorithm that categorizes which words are commonly used in spam mails.
 * Logistic regression is then performed on the said data and a confusion matrix is created to check for faults.
