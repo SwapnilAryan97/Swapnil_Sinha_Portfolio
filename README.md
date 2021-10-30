@@ -16,7 +16,7 @@
 * The data is transformed and dimentionality reduction is performed for our regression model.
 * XGBoost regression is performed on the transformed data and the result is predicted and compared.
 
-![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+![image](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 
 # [Project 3: House Price Estimation](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 * The dataset contains 81 attributes based on which cost of housing will be influenced.
