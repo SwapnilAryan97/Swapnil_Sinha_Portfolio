@@ -16,5 +16,12 @@
 ![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 
 # [Project 3: House Price Estimation](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+* The dataset contains 81 attributes based on which cost of housing will be influenced.
+* The goal is to predict the sales price for each house in the dataset.
+* Numerical and categorical data are computed seperatetly and normalized by passing it through a pipeline model to avoid data leakage.
+* The data is then further preprocessed and passed through different regression models each through a smiliar pipeline structure. 
+* The mean of all the models is taken and the final output is provided.
+
+# [Project 4: Email Spam Detection](https://github.com/SwapnilAryan97/projects/blob/master/EmailSpamDetection.ipynb)
 * 
 
