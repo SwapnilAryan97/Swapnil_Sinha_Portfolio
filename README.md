@@ -36,3 +36,15 @@
 * Calculated the probability of a customer to be in a loan default with an accuracy of 81.37% by programming an ML model using 3 classifier algorithms.
 * Data is preprocessed (fill missing data, feature scaling, etc.) and the prediction is computed through Logistic Regression, KNN Classifier and Naive Bayes Classifier.
 * Naibe Bayes Classifier and Logistic Regression end at a tie each with 81.37% accuracy.
+
+# [Project 6: Sorting Algorithms](https://github.com/SwapnilAryan97/sorting_java)
+* An open source code for developers who want high efficient sorting algorithms.
+* The sorting algorithms implemented are: 
+  - Merge Sort
+  - Quick Sort
+  - Radix Sort (2 variations)
+  - Counting Sort
+  - Selection Srot
+  - Shell Sort
+  - Bubble Sort
+  - Insertion Sort
