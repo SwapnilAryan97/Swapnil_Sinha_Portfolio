@@ -1,6 +1,6 @@
 # Swapnil Aryan Sinha's Portfolio
 
-# [Project 1: Custom Hashtable](https://github.com/SwapnilAryan97/Hashing)
+# [Project 1: Password Encryption and Storage](https://github.com/SwapnilAryan97/Hashing)
 * Designed for students/developers who want a custom hashtable with built-in encryption for saving passwords.
 * The hashtable is written in Java.
 * The hashtable references a char array which stores the passwords in the order they were inserted in and the index in the character array at which the string is stored is kept in the hashtable.
