@@ -18,17 +18,21 @@
 
 ![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 
-# [Project 3: House Price Estimation](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+# [Project 3: Housing Price](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 * The dataset contains 81 attributes based on which cost of housing will be influenced.
 * The goal is to predict the sales price for each house in the dataset.
 * Numerical and categorical data are computed seperatetly and normalized by passing it through a pipeline model to avoid data leakage.
 * The data is then further preprocessed and passed through different regression models each through a smiliar pipeline structure. 
 * The mean of all the models is taken and the final output is provided.
 
-# [Project 4: Email Spam Detection](https://github.com/SwapnilAryan97/projects/blob/master/EmailSpamDetection.ipynb)
+# [Project 4: Email Spam](https://github.com/SwapnilAryan97/projects/blob/master/EmailSpamDetection.ipynb)
 * A Machine Learning Model that uses Natrual Language Processing to detect spam emails with 99.04% accuracy.
-*  A csv file containing manual entry of 5727 emails stating whether they're email spams or not.
+* A csv file containing manual entry of 5727 emails stating whether they're email spams or not.
 * The data is then restructured and passed through an algorithm that categorizes which words are commonly used in spam mails.
 * Logistic regression is then performed on the said data and a confusion matrix is created to check for faults.
 * An accuracy of 99.04% is achieved with this model.
 
+# [Project 5: Loan Default](https://github.com/SwapnilAryan97/projects/blob/master/LoanDefaultPrediction.ipynb)
+* Calculated the probability of a customer to be in a loan default with an accuracy of 81.37% by programming an ML model using 3 classifier algorithms.
+* Data is preprocessed (fill missing data, feature scaling, etc.) and the prediction is computed through Logistic Regression, KNN Classifier and Naive Bayes Classifier.
+* Naibe Bayes Classifier and Logistic Regression end at a tie each with 81.37% accuracy.
