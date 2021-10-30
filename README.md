@@ -13,3 +13,8 @@
 * The objective is to predict the time for any volcanic eruption based on the data sent by various sensors around volcanoes.
 * The shifts in the techtonic plates are measured by sensitive vibrational sensors and these vibrations in the form of raw data is injected into the model and an approximate time is projected.
 
+![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+
+# [Project 3: House Price Estimation](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+* 
+
