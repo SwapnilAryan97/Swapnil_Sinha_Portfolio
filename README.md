@@ -15,7 +15,6 @@
 * There is 29GB of data on which calculations have to be done.
 * The data is transformed and dimentionality reduction is performed for our regression model.
 * XGBoost regression is performed on the transformed data and the result is predicted and compared.
-
 ![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 
 ## [Project 3: Housing Price](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
