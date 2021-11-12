@@ -27,7 +27,7 @@
 * Using our analysis, small scaled businesses can be helped by helping them understand trends and make better deals and offers on particular days that could at yeild them better profits and higher customer satisfaction.
 
 
-![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/yearly_transactions.png)
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/yearly_transactions.png?raw=true)
 ![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_transaction.png)
 ![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_oil_price.png)
 
