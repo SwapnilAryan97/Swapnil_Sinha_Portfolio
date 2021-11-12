@@ -15,30 +15,38 @@
 * There is 29GB of data on which calculations have to be done.
 * The data is transformed and dimentionality reduction is performed for our regression model.
 * XGBoost regression is performed on the transformed data and the result is predicted and compared.
+![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 
-![image](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+# [Project 3: Time Series Forecasting](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/Time_series_forecasting.ipynb)
+### Please click on the google colab link at the top of the Time_series_forecasting.ipynb file and run it to see all the plottings.
+* Forecasts are especially relevant to brick-and-mortar grocery stores, which must dance delicately with how much inventory to buy. Predict a little over, and grocers are stuck with overstocked, perishable goods. Guess a little under, and popular items quickly sell out, leading to lost revenue and upset customers. More accurate forecasting, thanks to machine learning, could help ensure retailers please customers by having just enough of the right products at the right time.
+* For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction.
+* An indepth anaysis of datasets using plotly, seaborn and matplotlib to understand the trend and projecting an analysis of the correlation between every decision.
+* Using our analysis, small scaled businesses can be helped by helping them understand trends and make better deals and offers on particular days that could at yeild them better profits and higher customer satisfaction.
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/yearly_transactions.png)
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_transaction.png)
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_oil_price.png)
 
-## [Project 3: Housing Price](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+## [Project 4: Housing Price](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 * The dataset contains 81 attributes based on which cost of housing will be influenced.
-
 * The goal is to predict the sales price for each house in the dataset.
 * Numerical and categorical data are computed seperatetly and normalized by passing it through a pipeline model to avoid data leakage.
 * The data is then further preprocessed and passed through different regression models each through a smiliar pipeline structure. 
 * The mean of all the models is taken and the final output is provided.
 
-## [Project 4: Email Spam](https://github.com/SwapnilAryan97/projects/blob/master/EmailSpamDetection.ipynb)
+## [Project 5: Email Spam](https://github.com/SwapnilAryan97/projects/blob/master/EmailSpamDetection.ipynb)
 * A Machine Learning Model that uses Natrual Language Processing to detect spam emails with 99.04% accuracy.
 * A csv file containing manual entry of 5727 emails stating whether they're email spams or not.
 * The data is then restructured and passed through an algorithm that categorizes which words are commonly used in spam mails.
 * Logistic regression is then performed on the said data and a confusion matrix is created to check for faults.
 * An accuracy of 99.04% is achieved with this model.
 
-## [Project 5: Loan Default](https://github.com/SwapnilAryan97/projects/blob/master/LoanDefaultPrediction.ipynb)
+## [Project 6: Loan Default](https://github.com/SwapnilAryan97/projects/blob/master/LoanDefaultPrediction.ipynb)
 * Calculated the probability of a customer to be in a loan default with an accuracy of 81.37% by programming an ML model using 3 classifier algorithms.
 * Data is preprocessed (fill missing data, feature scaling, etc.) and the prediction is computed through Logistic Regression, KNN Classifier and Naive Bayes Classifier.
 * Naibe Bayes Classifier and Logistic Regression end at a tie each with 81.37% accuracy.
 
-## [Project 6: Sorting Algorithms](https://github.com/SwapnilAryan97/sorting_java)
+## [Project 7: Sorting Algorithms](https://github.com/SwapnilAryan97/sorting_java)
 * An open source code for developers who want high efficient sorting algorithms written in Java.
 * The sorting algorithms implemented are: 
   - Merge Sort
