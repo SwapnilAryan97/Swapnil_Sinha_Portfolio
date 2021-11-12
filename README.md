@@ -17,7 +17,7 @@
 * XGBoost regression is performed on the transformed data and the result is predicted and compared.
 
 
-![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png?raw=true)
 
 ## [Project 3: Time Series Forecasting](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/Time_series_forecasting.ipynb)
 ### Please click on the google colab link at the top of the Time_series_forecasting.ipynb file and run it to see all the plottings.
@@ -28,8 +28,8 @@
 
 
 ![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/yearly_transactions.png?raw=true)
-![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_transaction.png)
-![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_oil_price.png)
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_transaction.png?raw=true)
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_oil_price.png?raw=true)
 
 ## [Project 4: Housing Price](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
 * The dataset contains 81 attributes based on which cost of housing will be influenced.
