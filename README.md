@@ -16,7 +16,6 @@
 * The data is transformed and dimentionality reduction is performed for our regression model.
 * XGBoost regression is performed on the transformed data and the result is predicted and compared.
 
-
 ![](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png?raw=true)
 
 ## [Project 3: Time Series Forecasting](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/Time_series_forecasting.ipynb)
@@ -25,7 +24,6 @@
 * For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction.
 * An indepth anaysis of datasets using plotly, seaborn and matplotlib to understand the trend and projecting an analysis of the correlation between every decision.
 * Using our analysis, small scaled businesses can be helped by helping them understand trends and make better deals and offers on particular days that could at yeild them better profits and higher customer satisfaction.
-
 
 ![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/yearly_transactions.png?raw=true)
 ![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_transaction.png?raw=true)
