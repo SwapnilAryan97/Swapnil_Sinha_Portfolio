@@ -31,7 +31,7 @@
 ![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_transaction.png?raw=true)
 ![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_oil_price.png?raw=true)
 
-## [Project 4: Housing Price](https://github.com/SwapnilAryan97/Swapnil_Sinha_Portfolio/blob/main/images/Unknown.png)
+## [Project 4: Housing Price](https://github.com/SwapnilAryan97/projects/blob/master/house-price-prediction.ipynb)
 * The dataset contains 81 attributes based on which cost of housing will be influenced.
 * The goal is to predict the sales price for each house in the dataset.
 * Numerical and categorical data are computed seperatetly and normalized by passing it through a pipeline model to avoid data leakage.
